@@ -13,3 +13,23 @@
 - Notion
 - Adobe Creative Cloud
 - Fork
+
+
+## VS Code Extenstions
+- Apollo GraphQL
+- Atom Keymap
+- Color Picker
+- DotENV
+- ESLint
+- GitLens
+- GraphQL
+- Indent-rainbow
+- Live Share
+- Markdown All in One
+- MDX
+- Prettier - Code formatter
+- Rainbow Brackets
+- Ruby
+- Svelte
+- Version Lens
+- VSCode Ruby
